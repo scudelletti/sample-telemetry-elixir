@@ -1,0 +1,6 @@
+%{
+  "decorator": {:hex, :decorator, "1.4.0", "a57ac32c823ea7e4e67f5af56412d12b33274661bb7640ec7fc882f8d23ac419", [:mix], [], "hexpm", "0a07cedd9083da875c7418dea95b78361197cf2bf3211d743f6f7ce39656597f"},
+  "pretty": {:hex, :pretty, "1.0.8", "10bb0da3942872aa7a70a3abe559bfa51809d7dfc538b404ff8af94e93fb7600", [:mix], [], "hexpm", "5c523254c415e98b0bf737bc859a80f81c93ad2ead280193e5e7d3af1fd42c60"},
+  "telemetry": {:hex, :telemetry, "1.2.1", "68fdfe8d8f05a8428483a97d7aab2f268aaff24b49e0f599faa091f1d4e7f61c", [:rebar3], [], "hexpm", "dad9ce9d8effc621708f99eac538ef1cbe05d6a874dd741de2e689c47feafed5"},
+  "telemetry_decorator": {:hex, :telemetry_decorator, "1.0.2", "25cfb27c9646a6feb7f97ea2130f87552f87f17a76d45b44e0a2d87a72ff4dbb", [:mix], [{:decorator, "~> 1.3", [hex: :decorator, repo: "hexpm", optional: false]}, {:pretty, "~> 1.0", [hex: :pretty, repo: "hexpm", optional: false]}, {:telemetry, "~> 1.0", [hex: :telemetry, repo: "hexpm", optional: false]}], "hexpm", "912adaa2d587162d6de814f80fff0277d5c3127cef7febb9a6c0390d2c7f2d46"},
+}
